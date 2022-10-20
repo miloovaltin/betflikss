@@ -1,16 +1,16 @@
 {
-"name": "betflikss",
-"theme": "betflikss",
-"version": "6.8.6",
-"description": "betflikss สมัครเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 ให้เครดิตฟรี",
-"keywords": [
-"betflikss",
-"betflikss เครดิตฟรี",
-"betflikss ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/betflikss",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "betflikss",
+  "theme": "betflikss",
+  "version": "6.9.0",
+  "description": "betflikss สมัครเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 ให้เครดิตฟรี",
+  "keywords": [
+    "betflikss",
+    "betflikss เครดิตฟรี",
+    "betflikss ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/betflikss",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
